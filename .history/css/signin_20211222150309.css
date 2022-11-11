@@ -1,0 +1,9 @@
+.signin {
+	margin-top: 120px;
+	padding: 100px 0 150px;
+	background-image: url("../images/signin_bg.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+}
